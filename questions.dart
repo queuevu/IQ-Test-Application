@@ -54,7 +54,7 @@ List<Questions> questions=[
     correctAnswer: "5"
   ),
   Questions(
-    QuestionText: "If a doctor gives you 3 pills and tells you to take one every hour, how long will it take to finish all the \npills?",
+    QuestionText: "If a doctor gives you 3 pills and tells you to take one every half hour, how long will it take to finish all the \npills?",
     options: ["1 hour","1.5 hours","2 hours","3 hours"],
     correctAnswer: "1 hour"
   )
