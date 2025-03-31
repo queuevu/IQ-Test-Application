@@ -39,7 +39,7 @@ List<Questions> questions=[
     correctAnswer: "Kevin"
   ),
   Questions(
-    QuestionText: "Find the missing number\n4,9,16,255,?,49",
+    QuestionText: "Find the missing number\n4,9,16,25,?,49",
     options: ["30","36","40","42"],
     correctAnswer: "36"
   ),
